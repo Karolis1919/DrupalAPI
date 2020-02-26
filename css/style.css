@@ -1,0 +1,40 @@
+header{
+    padding: 50px;
+    color: #6c757d;
+    background-color: #FFE4C4;
+}
+
+body{
+    background-color: #FFE4C4;
+}
+
+body > section > .rezult{
+    border-radius: 2%;
+    padding: 50px;
+}
+
+.form-control{
+    width: auto;
+}
+
+.navigation{
+    width: auto;
+}
+
+p{
+    color: #6c757d;
+}
+
+.row{
+    margin-bottom: 50px;
+}
+
+.rezult .row{
+    background-color: #fffcf6;
+}
+
+.navigation{
+    background-color: #27b0c2;
+    height: 100px;
+    padding: 40px;
+}
